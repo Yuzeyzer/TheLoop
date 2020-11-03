@@ -1,3 +1,5 @@
 @import './base.css';
 @import './components/hero.css';
 @import './components/header.css';
+@import './components/delivery.css';
+@import './components/collection.css';

@@ -17,7 +17,27 @@ li {
   list-style-type: none;
 }
 
-a,span {
+a,
+span {
   display: inline-block;
   text-decoration: none;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.font-regular {
+  font-weight: 400;
+}
+
+@media screen and (max-width: 1024px) {
+  .col-6 {
+    width: 100%;
+  }
 }

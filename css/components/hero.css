@@ -76,10 +76,6 @@
   top: -34px;
 }
 
-.col-6 {
-  width: 50%;
-}
-
 .slick-initialized .slick-slide {
   display: flex;
 }
