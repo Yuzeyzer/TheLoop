@@ -52,3 +52,27 @@
   padding: 11px 30px;
   background-color: #d7b399;
 }
+
+.collection__dress {
+  position: relative;
+  text-align: right;
+}
+
+.collection__dress-1 {
+  background-color: #f4f4f4;
+}
+.collection__dress-2 {
+  background-color: #f9f6f1;
+}
+
+.collection__name {
+  position: absolute;
+  left: 30px;
+  bottom: 25px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+}
+.collection__dress-item {
+  max-width: 70%;
+}
