@@ -1,6 +1,6 @@
 @media screen and (max-width: 1024px) {
   .hero {
-		height: calc(100vh - 200px);
+		height: calc(100vh - 100px);
     min-height: auto;
     overflow: hidden;
   }
