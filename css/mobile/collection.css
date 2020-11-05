@@ -1,4 +1,4 @@
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .before::before {
     width: 100%;
   }
