@@ -47,12 +47,6 @@
   font-size: 16px;
 }
 
-.collection__link {
-  display: inline-flex;
-  padding: 11px 30px;
-  background-color: #d7b399;
-}
-
 .collection__dress {
   position: relative;
   text-align: right;
@@ -75,4 +69,8 @@
 }
 .collection__dress-item {
   max-width: 70%;
+}
+
+.collection__btn {
+  padding: 11px 30px;
 }

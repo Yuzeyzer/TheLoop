@@ -1,4 +1,7 @@
 @media screen and (max-width: 768px) {
+  .collection {
+    padding-bottom: 80px;
+  }
   .before::before {
     width: 100%;
   }

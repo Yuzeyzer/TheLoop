@@ -1,0 +1,54 @@
+.models {
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.models__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.models__row {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.models__item {
+  padding-top: 25px;
+  position: relative;
+}
+
+.models__lines {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.models__name {
+  max-width: 110px;
+  margin: 25px auto 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #000000;
+}
+
+.models__price {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #d7b399;
+}
+
+.models__btn span {
+	margin-right: 9px;
+}

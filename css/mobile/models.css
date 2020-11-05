@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+  .models {
+    padding-bottom: 100px;
+  }
+  .models__row {
+    padding-bottom: 0;
+  }
+  .models__title {
+    font-size: 24px;
+  }
+  .models__item {
+    margin-bottom: 60px;
+  }
+  .models__lines {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
