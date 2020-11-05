@@ -1,6 +1,6 @@
 @media screen and (max-width: 1024px) {
   .hero {
-    max-height: 600px;
+		height: calc(100vh - 200px);
     min-height: auto;
   }
   .hero__row {

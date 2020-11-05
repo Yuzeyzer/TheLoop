@@ -1,0 +1,12 @@
+@media screen and (max-width: 1024px) {
+  .delivery {
+    padding: 40px 0;
+  }
+  .delivery__title {
+    font-size: 22px;
+  }
+  .delivery__description {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+}

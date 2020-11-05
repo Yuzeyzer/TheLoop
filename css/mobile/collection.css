@@ -1,0 +1,23 @@
+@media screen and (max-width: 1024px) {
+  .before::before {
+    width: 100%;
+  }
+  .after::after {
+    top: 250px;
+    width: 100%;
+  }
+  .collection__item {
+    padding: 60px 0 58px;
+  }
+  .collection__image {
+    max-width: 125px;
+    right: 0;
+  }
+  .collection .row:nth-child(2) {
+    margin: 0 -25px;
+  }
+  .collection__dress-item {
+    max-width: 50%;
+    padding-top: 25px;
+  }
+}
