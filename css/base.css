@@ -44,4 +44,7 @@ span {
   .col-6 {
     width: 100%;
   }
+  .container {
+    padding: 0 25px;
+  }
 }
