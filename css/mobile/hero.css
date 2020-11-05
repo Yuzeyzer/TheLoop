@@ -2,6 +2,7 @@
   .hero {
 		height: calc(100vh - 200px);
     min-height: auto;
+    overflow: hidden;
   }
   .hero__row {
     padding-top: 130px;
