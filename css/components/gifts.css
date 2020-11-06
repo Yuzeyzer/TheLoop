@@ -1,0 +1,50 @@
+.gifts {
+  padding: 70px 0;
+  background-color: #212121;
+}
+
+.gifts__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+.gifts__btn {
+  padding: 10px 30px;
+  outline: none;
+}
+
+.gifts__form {
+  padding-left: 60px;
+}
+.gifts__email {
+  padding: 12px 20px;
+  outline: none;
+  min-width: 255px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.02em;
+  color: #8d8d8d;
+}
+
+.gifts__label {
+  margin-right: 30px;
+}
+
+.gifts__email::placeholder {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.02em;
+  color: #8d8d8d;
+}
+
+.gifts__row {
+  align-items: center;
+}

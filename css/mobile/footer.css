@@ -1,0 +1,14 @@
+@media screen and (max-width: 1024px) {
+  .footer__top {
+    padding: 20px 0;
+  }
+  .col-2 .footer__item {
+    padding: 20px 0;
+  }
+  .footer__description {
+    max-width: 100%;
+  }
+  .footer__bottom a {
+    margin-top: 10px;
+  }
+}
